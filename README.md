@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first first repository
-Author RahidKhan
+This is my first repository
+<br>
+Author Rahid Khan
